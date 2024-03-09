@@ -1,6 +1,3 @@
 
-echo "{^ projectName ^}" 
 
-#> bash
-
-echo "Let's try {^ verb ^}"
+echo "Let's try {^ verb ^}" > test.txt
